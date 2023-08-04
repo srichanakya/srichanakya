@@ -1,4 +1,4 @@
-👋 Hello, World! I'm ###Sri Chanakya Yennana 👨‍💻
+### 👋 Hello, World! I'm Sri Chanakya Yennana 👨‍💻
 
 🔭 Exploring the wonders of code and technology
 🌱 Enthusiastic learner, constantly seeking new challenges
