@@ -8,7 +8,7 @@
 
 🛠️ Technologies & Tools:
 
-   💻 Languages: Python, JavaScript, Java, C++,
+   💻 Languages: Python, JavaScript, Java, C++ <br/>
    🌐 Web: HTML, CSS, React, Node.js
    🚀 Frameworks: Express.js
    🛠️ Tools: Visual Studio Code, Git, Postman
