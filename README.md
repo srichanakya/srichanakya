@@ -23,4 +23,4 @@
 
 
 💬 Let's connect and geek out about code!
-📫 Reach me at srichanakyayennana@outlook.com
+📫 Reach me at srichanakyayennana@gmail.com
